@@ -87,9 +87,9 @@ No README do seu repositório, inclua:
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  Tudo ocorreu bem
+  - O que não funcionou como o esperado?  Tudo ocorreu bem
+  - O que aprendeu sobre conversar com IAs? Facilita nosso trabalho
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
