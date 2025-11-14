@@ -27,22 +27,32 @@ Um bom PRD deve descrever o problema, quem será beneficiado, as principais func
 
 ```txt
 # Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+Ajudar pessoas a assumirem o controle das próprias finanças com simplicidade, clareza e automação por IA, oferecendo insights inteligentes, previsões de gastos e acompanhamento personalizado do orçamento — sem complicações.
 
 # Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+Dificuldades: organização mensal, gastos por impulso e entender para onde o dinheiro está indo.
 
 # Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+profissional que recebe salário fixo e faz freelas.
+Dificuldades: organização mensal, gastos por impulso e entender para onde o dinheiro está indo.
+O que ela deseja: clareza, praticidade e recomendações concretas.
 
 # Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
+1. Classificação automática de transações
+A IA recebe extratos ou fotos de notas e organiza os gastos automaticamente.
+
+2. Previsões de despesas futuras
+LLM + regras ⇒ preveem possíveis gastos extras com base em comportamento e sazonalidade.
+
+3. Alertas inteligentes
+“Você está a 12% de estourar o orçamento de lazer este mês.”
+
+4. Recomendações personalizadas
+Prioridades, metas, investimentos iniciais, economia por categorias.
+
+5. Chat com IA integrado
+Converse com seu dinheiro:
+"Quanto posso gastar no fim de semana sem sair do meu orçamento?"
 
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
